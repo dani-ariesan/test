@@ -2,3 +2,7 @@ some changes
 line 2
 line 3
 4
+6
+7
+8
+9
